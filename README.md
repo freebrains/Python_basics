@@ -2,7 +2,7 @@
 
 ![python_basics](https://user-images.githubusercontent.com/61405878/99543278-10602f80-29c4-11eb-866c-03afd666104e.png)
 
-In the first quarter, I've learned how to master the technical basics of the profession: learned how to work in Linux and created servers in AWS cloud services, searched for information and performed basic file operations, created scheduled tasks, and monitored server performance. I've learned how to use the SQL query language and created and optimized complex queries.
+In the first quarter, I've learned how to master the technical basics of the profession: learned how to work in Linux and created servers in AWS cloud services, searched for information and performed basic file operations, created scheduled tasks, and monitored server performance. I've learned how to use the SQL query language (not in this repository) and created and optimized complex queries.
 
 ## During this course I've learned about:
   * Built-in types and operations with them ([Lesson 2](https://github.com/freebrains/Python_basics/tree/Lesson_2))
